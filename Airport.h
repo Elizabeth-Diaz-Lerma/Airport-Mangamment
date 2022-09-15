@@ -1,3 +1,7 @@
+//Here will define the class Airpots with all their attributes and methods, 
+//also including inheritance with the class passenger, fecha, flight and Airline
+
+
 #ifndef AIRPORT_H_INCLUDED
 #define AIRPORT_H_INCLUDED
 #include "Airline.h"
