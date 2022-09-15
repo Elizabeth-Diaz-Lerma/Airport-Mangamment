@@ -1,10 +1,12 @@
+//Here will define the class date with all their attributes 
+
 #ifndef FECHA_H_INCLUDED
 #define FECHA_H_INCLUDED
 #include <string>
 #include <iostream>
 using namespace std;
-class Fecha { // clase fecha que será un objeto de otra clase
-    public: // los métodos son privados
+class Fecha { 
+    public: // methods will be private
         Fecha();
         Fecha(const Fecha&);
         virtual ~Fecha();
