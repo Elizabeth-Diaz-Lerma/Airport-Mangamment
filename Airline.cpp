@@ -1,3 +1,5 @@
+//Here will be all the methods for the class airline, also include a constructor for airline
+
 #include <iostream>
 #include <fstream>
 #include <stdio.h>
