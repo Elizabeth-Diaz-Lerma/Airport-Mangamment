@@ -1,8 +1,10 @@
+//libraries
 #include <iostream>
 #include <stdio.h>
 #include <cstdio>
 #include <string>
 #include <sstream>
+//Files of Object Oriented
 #include "Airport.h"
 #include "Flight.h"
 #include "Passenger.h"
@@ -11,20 +13,13 @@ using namespace std;
 
 int main()
 {
-    //Airport airport;
-    //menu
-    //airport.printAllFights();
-    //Flight flight;
-    //float distancia;
-    //cout << "distancia: "<<endl;
-    //cin>> distancia;
-    //flight.calculateFuel(distancia);
-
-    //Flight flight;
-    //flight.prueba();
+    //Menu for the user 
     Passenger passenger;
     Airline airline;
     int op;
+    
+    //Here will be all the structure of our menu created with do and switch cases acording of op
+    //Also we put and invalid option and a break for the user when he didn´t want to continue with the session
     do {
         cout <<endl;
         cout << "Sitema de control de vuelo del Aeropuerto de la Ciudad de Mexico" << endl << endl;
