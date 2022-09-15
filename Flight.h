@@ -1,3 +1,4 @@
+//Here will define the class flight with all their attributes and methods, also including inheritance with the class passenger
 #ifndef FLIGHT_H_INCLUDED
 #define FLIGHT_H_INCLUDED
 #include <iostream>
@@ -7,7 +8,7 @@ const int columna = 4;
 const int filas = 30;
 class Flight{
 private:
-    //Incluirlo en el archivo de texto de aerlinea 120 elementos 0 los que están ocupados, 2 números enteros nombre y teléfono
+    //Include the txt of airlines with 120 elements; where 0 means are takesn, 2 phone number with his name
     string date;
     string hour;
     int price;
