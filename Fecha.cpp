@@ -1,3 +1,5 @@
+//Here will be all the methods for the class date, also include a constructor for date
+
 #include <iostream>
 #include <stdio.h>
 #include <cstdio>
