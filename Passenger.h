@@ -1,4 +1,4 @@
-//Here will define the class passenger with all their attributes and methods
+//Here will define the class passenger with all their attributes 
 
 #ifndef PASSENGER_H_INCLUDED
 #define PASSENGER_H_INCLUDED
