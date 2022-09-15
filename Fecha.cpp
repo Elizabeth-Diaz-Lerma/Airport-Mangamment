@@ -1,4 +1,5 @@
 //Here will be all the methods for the class date, also include a constructor for date
+//we include a structure for date to consider the months and the days of each month
 
 #include <iostream>
 #include <stdio.h>
