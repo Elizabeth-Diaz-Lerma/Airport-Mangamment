@@ -1,3 +1,5 @@
+//Here will define the class passenger with all their attributes and methods
+
 #ifndef PASSENGER_H_INCLUDED
 #define PASSENGER_H_INCLUDED
 #include <iostream>
