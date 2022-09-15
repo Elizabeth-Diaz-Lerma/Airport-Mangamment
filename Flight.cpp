@@ -1,3 +1,5 @@
+//Here will be all the methods for the class fligts, also include a constructor for flight
+
 #include <iostream>
 #include <stdio.h>
 #include "Flight.h"
