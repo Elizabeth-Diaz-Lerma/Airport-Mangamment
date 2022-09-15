@@ -1,3 +1,5 @@
+////Here will define the methodos off the passenger
+
 #include <iostream>
 #include <stdio.h>
 #include <fstream>
