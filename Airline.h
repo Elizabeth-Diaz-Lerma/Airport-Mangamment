@@ -1,10 +1,12 @@
+//Here will define the class Airline 
+
 #ifndef AIRLINE_H_INCLUDED
 #define AIRLINE_H_INCLUDED
 #include "Flight.h"
 const int NUM_FLIGHTS = 5;
 class Airline{
 private:
-    //Deben estar en un block de Notas la información
+    //consideration must be in a txt the bording city, short name 
     string boardingCity;
     string shortName;
     string name;
